@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Introduction to Programming Course (CSC 121)"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Davidson College"
-date: Fall 2021
+date: ""
 location: "Davidson, North Carolina"
 ---
 
