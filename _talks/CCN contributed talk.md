@@ -1,8 +1,8 @@
 ---
-title: "CCN contributed talk"
+title: "Talk 1 on Relevant Topic in Your Field"
 collection: talks
 type: "Talk"
-permalink: [/talks/CCN contributed talk](https://2022.ccneuro.org/view_video.php?c=8EEE3034)
+permalink: [/talks/Talk 1 on Relevant Topic in Your Field](https://2022.ccneuro.org/view_video.php?c=8EEE3034)
 venue: "Computational Cognitive Neuroscience"
 date: 2022-08-28
 location: "San Francisco, California"
