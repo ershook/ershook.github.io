@@ -12,6 +12,8 @@ I am a PhD candidate in the Center for Theoretical Neuroscience at Columbia Univ
 
 Before Columbia I received a B.S. in Mathematics from Davidson College where I was awarded the Thomas S. Smith scholarship for postgraduate studies abroad. Thanks to the support of the Smith Scholarship, I received an M.S.c. in Machine Learning with distinction from University College London. I also spent time working as a technician in Josh McDermott’s Computational Audition Lab at MIT.
 
+Outside of science I am a avid climber and enjoy walking the avenues of New York City. 
+
 Current Research Projects
 ======
 
