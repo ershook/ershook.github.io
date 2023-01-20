@@ -8,5 +8,5 @@ date: 2022-08-28
 location: "San Francisco, California"
 ---
 Title: Predictive Dynamics improve noise robustness in a deep network model of the human auditory system
-<iframe width="420" height="315" src="https://youtu.be/8rQVUKW1xEE?t=99" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8rQVUKW1xEE?start=99" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
