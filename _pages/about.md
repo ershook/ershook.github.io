@@ -12,7 +12,7 @@ I am a PhD candidate in the Center for Theoretical Neuroscience at Columbia Univ
 
 Before Columbia I received a B.S. in Mathematics from Davidson College where I was awarded the Thomas S. Smith scholarship for postgraduate studies abroad. Thanks to the support of the Smith Scholarship, I received an M.S.c. in Machine Learning with distinction from University College London. I also spent time working as a technician in Josh McDermott’s Computational Audition Lab at MIT.
 
-Projects
+Current Research Projects
 ======
 
 Predictive Coding Dynamics Improve Auditory Noise Robustness
@@ -22,7 +22,7 @@ Computations underlying Cuttlefish Camouflage
 ------
 
 
-Prior to PhD
+Previous Research Projects
 =======
 
 Deep Neural Networks as a model of human auditory cortex
